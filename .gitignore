@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+**/.vs/
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Flutter
+.dart_tool/
+build/
+**/.dart_tool/
+**/build/
+
+# IDE
+.idea/
+*.iml
+
+# Environment / secrets
+.env
+.env.*
+appsettings.Development.json
